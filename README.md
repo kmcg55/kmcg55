@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/kellymcgucken/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kmcg55)
 
-I'm Kelly, a recent computer science graduate of Carleton College working in IT. When I'm not imaging computers, troubleshooting, or internalizing the latest Microsoft update, I like to learn and write about cybersecurity, digital privacy,  open source software, and artificial intelligence.
+I'm Kelly, a computer science graduate of Carleton College working in cybersecurity. When I'm not monitoring alerts, threat hunting, or internalizing the latest Microsoft update, I like to learn and write about cybersecurity, digital privacy,  open source software, and artificial intelligence.
 
 I am currently working on creating a website to host my blog.
 
